@@ -2,7 +2,7 @@ FullApp
 
 build
 
-[![Build Status](https://travis-ci.org/supriyasanjayshinde/FullApp1.svg?branch=master)](https://travis-ci.org/supriyasanjayshinde/FullApp)
+[![Build Status](https://travis-ci.org/supriyasanjayshinde/fullapp.svg?branch=master)](https://travis-ci.org/supriyasanjayshinde/fullapp)
 
 codecov
 
