@@ -1,10 +1,6 @@
 language: java
-sudo: true # faster builds
-git:
-  depth: 500
+sudo: false # faster builds
 before_install:
 - chmod +x mvnw
-script:
-- "./mvnw clean install -B"
 after_success:
 - bash <(curl -s https://codecov.io/bash)
